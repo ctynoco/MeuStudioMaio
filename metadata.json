@@ -1,0 +1,11 @@
+{
+  "name": "MeuStudio",
+  "description": "Estúdio de transmissão virtual interativo com mixer de áudio completo, layouts de vídeo vertical e horizontal, trocador de cenas, controle de fontes e convidados.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
